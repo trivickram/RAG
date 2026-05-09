@@ -1,0 +1,9 @@
+Dataset_ID,Title,Department,Update_Frequency,Format,Access_Level
+OGD-001,Annual Budget 2025-26,Finance,Annually,CSV,Public
+OGD-002,Public Health Facilities Directory,Health,Quarterly,JSON,Public
+OGD-003,City Traffic Volumes & Patterns,Transport,Daily,XML,Public
+OGD-004,Public School Locations,Education,Yearly,CSV,Public
+OGD-005,Air Quality Index (AQI) Sensors,Environment,Hourly,JSON,Public
+OGD-006,Registered MSME Businesses,Commerce,Monthly,CSV,Public
+OGD-007,Crime Statistics Overview,Home Affairs,Quarterly,PDF,Restricted
+OGD-008,Agricultural Crop Production,Agriculture,Annually,CSV,Public
